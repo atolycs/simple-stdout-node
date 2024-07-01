@@ -1,0 +1,1 @@
+export type LoggingTypes = string

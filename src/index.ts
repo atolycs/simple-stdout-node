@@ -1,2 +1,4 @@
 
-export * from "./LogManager"
+export * from './types'
+export * from './info'
+export * from './warn'
